@@ -1,7 +1,5 @@
 conda create -y -n diffunfold python=3.9
 
-CONDA_PATH=~/anaconda3/
-
 CONDA_PATH=~/miniconda/
 # export TORCH_CUDA_ARCH_LIST="6.1;6.2;7.0;7.5;8.0"   # a100: 8.0; v100: 7.0; 2080ti: 7.5; titan xp: 6.1
 # https://developer.nvidia.com/cuda-gpus  8.9 need cuda>=11.8
