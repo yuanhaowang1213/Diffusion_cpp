@@ -6,4 +6,4 @@ Installation could see [install guide](./install.sh)
 
 Currently, this model only supports a limited set of architectures. Parallel computing code can be shared upon request.
 
-Transformer-architecture is not used in my current project, but code will be available once required. (Sit-version [https://scalable-interpolant.github.io/](https://github.com/willisma/SiT/blob/main/models.py))
+Transformer-architecture is not used in my current project, but code will be available once required. 
