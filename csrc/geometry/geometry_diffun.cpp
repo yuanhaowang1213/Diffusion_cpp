@@ -122,8 +122,8 @@ std::vector<double> Geometry_DiffUn::Compute_Loss(torch::Tensor& sequence, torch
 {
  
     std::vector<double> loss_value;
- 
 
+    # skip for now as this is for inference pipeline test       
     return loss_value;
 
 }
@@ -131,6 +131,7 @@ std::vector<double> Geometry_DiffUn::Compute_Loss(torch::Tensor& sequence, torch
 torch::Tensor Geometry_DiffUn::Eval_Image(torch::Tensor& sequence, torch::Tensor& slice, torch::Tensor weight = torch::Tensor(), torch::Tensor noise = torch::Tensor())
 {
 
+    # skip for now as this is for inference pipeline test       
 
     torch::Tensor result;
 
